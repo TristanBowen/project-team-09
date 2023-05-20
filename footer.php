@@ -17,6 +17,8 @@
 				<?php
 				/* translators: %s: CMS name, i.e. WordPress. */
 				printf( esc_html__( 'Proudly powered by %s', 'tsvcountrymusic' ), 'WordPress' );
+				printf( esc_html__( 'Phone: 0417199744' );
+				printf( esc_html__( 'Email: ttcma2018@gmail.com' );
 				?>
 			</a>
 			<span class="sep"> | </span>
